@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RPAProject-VisualPicker", "RPAProject-VisualPicker\RPAProject-VisualPicker.vcxproj", "{2D51ED7B-E218-45D7-82ED-2718E2EAF684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D51ED7B-E218-45D7-82ED-2718E2EAF684}.Debug|x64.ActiveCfg = Debug|x64
+		{2D51ED7B-E218-45D7-82ED-2718E2EAF684}.Debug|x64.Build.0 = Debug|x64
+		{2D51ED7B-E218-45D7-82ED-2718E2EAF684}.Debug|x86.ActiveCfg = Debug|Win32
+		{2D51ED7B-E218-45D7-82ED-2718E2EAF684}.Debug|x86.Build.0 = Debug|Win32
+		{2D51ED7B-E218-45D7-82ED-2718E2EAF684}.Release|x64.ActiveCfg = Release|x64
+		{2D51ED7B-E218-45D7-82ED-2718E2EAF684}.Release|x64.Build.0 = Release|x64
+		{2D51ED7B-E218-45D7-82ED-2718E2EAF684}.Release|x86.ActiveCfg = Release|Win32
+		{2D51ED7B-E218-45D7-82ED-2718E2EAF684}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F29A937-DF79-40DC-999F-64796FE3B846}
+	EndGlobalSection
+EndGlobal
